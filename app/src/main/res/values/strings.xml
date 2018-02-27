@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidConnectionExample</string>
+    <string name="start_socket_connection">Start Socket Connection</string>
+    <string name="end_socket_connection">end socket connection</string>
+</resources>
